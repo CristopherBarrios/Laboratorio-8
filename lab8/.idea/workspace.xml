@@ -47,6 +47,9 @@
       <change afterPath="$PROJECT_DIR$/../Sonoteca/fonoteca/gradlew" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sonoteca/fonoteca/gradlew.bat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sonoteca/fonoteca/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cuadrado/Cuadra.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangulo/recta.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangulo/triang.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lol/.idea/kotlinc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lol/.idea/libraries/KotlinJavaScript.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lol/.idea/misc.xml" afterDir="false" />
@@ -147,7 +150,56 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Rectangulo/recta.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Triangulo/triang.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cuadrado/Cuadra.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Figura/Figure.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -224,7 +276,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537469490416" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537469335018" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
